@@ -1,4 +1,4 @@
-GPUShaderModule.exports = {
+module.exports = {
   apps: [
     {
       name: "fastapp",
